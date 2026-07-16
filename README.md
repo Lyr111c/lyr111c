@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# LY / lyric
+
+Data Science master's student at Beijing Institute of Technology.
+B.Sc. in Statistics with a minor in Artificial Intelligence.
+
+## Current Focus
+
+- Credit risk modeling and strategy
+- Statistical learning
+- Reproducible data science
+
+## Selected Projects
+
+- Credit Risk Decision System — In progress
+
+## Skills
+
+Python · SQL · R · scikit-learn · Git
+
