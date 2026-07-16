@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # LY / lyric
 
 Data Science master's student at Beijing Institute of Technology.
-B.Sc. in Statistics with a minor in Artificial Intelligence.
+//B.Sc. in Statistics with a minor in Artificial Intelligence.
 
 ## Current Focus
 
